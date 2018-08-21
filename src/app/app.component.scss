@@ -1,0 +1,9 @@
+$maxWidth: 500px;
+$background: #f2f2f2;
+
+.custom-container{
+    max-width: $maxWidth;
+    margin: 0 auto;
+    background: $background;
+    margin-top: 1%;
+}
